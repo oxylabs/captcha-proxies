@@ -56,6 +56,6 @@ Unlock the potential of our CAPTCHA proxies, crafted for smooth integration with
   - Micro, Starter, and Advanced Web Unblocker plans.
  
     ## Contacts
-Email - hello@oxylabs.io
-<br><a href="https://oxylabs.drift.click/oxybot">Live chat</a>
+    
+If you have questions or need support, reach out to us at support@oxylabs.io, or through live chat, accessible via [Oxylabs Dashboard](https://dashboard.oxylabs.io/en/), or join our [Discord community](https://discord.gg/Pds3gBmKMH). For enterprise-related inquiries, contact your dedicated account manager.
 
