@@ -24,7 +24,6 @@ Unlock the potential of our CAPTCHA proxies, crafted for smooth integration with
 - 99.95% success rates
 - HTTP, HTTPS, SOCKS5
 - Fast performance
-- PAYG $10/GB
 
  ## [Mobile Proxies](https://oxylabs.io/products/mobile-proxies)
 - 20M+ mobile IPs
