@@ -48,9 +48,9 @@ Unlock the potential of our CAPTCHA proxies, crafted for smooth integration with
 
   A -30% discount for the first month is available for new Oxylabs clients only. Eligible plans:
   
-  - Micro, Starter, and Advanced Residential Proxy plans.
-  - Starter, Advanced, and Premium Mobile Proxy plans.
-  - Micro, Starter, Advanced, and Premium Shared Datatacenter Proxy plans.
+  - Starter, Basic and Advanced Residential Proxy plans.
+  - Starter, Basic, Advanced Mobile Proxy plans.
+  - Micro, Starter, Advanced, and Premium Datatacenter Proxy plans.
   - Micro, Starter, and Advanced Scraper API plans.
   - Micro, Starter, and Advanced Web Unblocker plans.
  
